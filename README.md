@@ -65,8 +65,8 @@ Team project — responsive landing page for furniture brand.
 ✔ Accessibility and responsive layout  
 ✔ Collaborative Git workflow  
 
-🔗 Repository: [Add link]  
-🌐 Live Demo: [Add link]
+🔗 Repository: [https://github.com/DKitseliuk/project-Group02JS]  
+🌐 Live Demo: [https://dkitseliuk.github.io/project-Group02JS/]
 
 ---
 
@@ -78,7 +78,7 @@ Responsive landing page for yoga studio.
 ✔ Built with HTML, CSS and JavaScript  
 
 🔗 Repository: [https://github.com/Sveta-pu/YOGA]  
-🌐 Live Demo: [Add link]
+🌐 Live Demo: [https://pavlivskijyaroslav.github.io/pixel-perfect/]
 
 ---
 
@@ -108,7 +108,7 @@ Seeking a Junior Frontend Developer role where I can contribute to production pr
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [Add link]  
+💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]  
 📧 Email: [Add email]  
 💻 GitHub: https://github.com/Sveta-pu  
 
