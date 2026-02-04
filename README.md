@@ -77,7 +77,7 @@ Responsive landing page for yoga studio.
 ✔ Clean UI and layout structure  
 ✔ Built with HTML, CSS and JavaScript  
 
-🔗 Repository: [Add link]  
+🔗 Repository: [https://github.com/Sveta-pu/YOGA]  
 🌐 Live Demo: [Add link]
 
 ---
