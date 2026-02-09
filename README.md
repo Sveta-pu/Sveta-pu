@@ -53,8 +53,8 @@ Authentication-based web application with protected routes and user session mana
 ✔ Implemented responsive UI  
 ✔ Integrated REST API  
 
-🔗 Repository: [Add link]  
-🌐 Live Demo: [Add link]
+🔗 Repository: [https://github.com/Sveta-pu/09-auth]  
+🌐 Live Demo: [https://09-auth-liart-five.vercel.app/]
 
 ---
 
